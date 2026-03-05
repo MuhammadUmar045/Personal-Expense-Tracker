@@ -4,7 +4,7 @@ A comprehensive web-based solution for tracking and managing personal or busines
 
 ## Developer
 - **Name:** M.Umar Farooq
-- **Email:** m.umarfarooq0045@gmail.com
+- **Email:** mumarfarooqkhan45@gmail.com
 
 ## Features
 - User Authentication System
